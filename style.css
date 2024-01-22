@@ -1,0 +1,37 @@
+*{
+	box-sizing: border-box;
+}
+
+.container{
+	width: 90vw;
+	margin: auto;
+	background-color: #ddd;
+	min-height: 400px;
+	text-align: center;
+}
+.message{
+	padding: 10px;
+	background-color: chocolate;
+}
+.btn{
+	min-height: 50%;
+	height: 40px;
+	font-size: 1.4em;
+	border-radius: 10px;
+	margin: 10px;
+}
+.box{
+	width: 70vw;
+	margin: auto;
+	background-color: white;
+	min-height: 40px;
+	text-align: center;
+}
+.result{
+	width: 70vw;
+	margin: auto;
+	background-color: white;
+	min-height: 60px;
+	text-align: center;
+}
+}
